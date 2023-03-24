@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(28,27,34);
+    color: #fbfbfe;
+    font-size: 15px;
+}
+
+h1 {
+    color: #fbfbfe;
+}
+
+p {
+    color: #fbfbfe;
+}
+
+button {
+    display: inline-block;
+    margin: 0 10px;
+    padding: 10px 15px;
+    background-color: rgb(43,42,51);;
+    color: #fbfbfe;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 600;
+}
+
+button:hover {
+    background-color: rgb(82,82,94);
+}

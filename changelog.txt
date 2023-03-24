@@ -1,0 +1,4 @@
+0.3 add multibel icons for light and dark mode
+0.4 improve finding bookmarks from comparing url up to last path part to also comparing last path part excluding digits
+0.5 changing bookmark no longer adds spaces after episode count
+0.6 removed 16px icon, as it did not render corectly
